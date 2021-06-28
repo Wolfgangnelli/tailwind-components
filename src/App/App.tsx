@@ -1,11 +1,10 @@
 import React from 'react';
+import Header from '../components/Application-UI/headings/page-headings/Header3';
 import './index.css';
 
 function App() {
   return (
-    <div>
-     ok
-    </div>
+    <Header />
   );
 }
 
