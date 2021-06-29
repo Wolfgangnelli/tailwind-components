@@ -1,10 +1,10 @@
 import React from 'react';
-import Header from '../components/Application-UI/headings/page-headings/Header3';
+import NavWithSearchBar from '../components/Application-UI/navigation/NavWithSearchBar';
 import './index.css';
 
 function App() {
   return (
-    <Header />
+   <NavWithSearchBar />
   );
 }
 
